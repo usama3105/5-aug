@@ -1,0 +1,36 @@
+.slide-img{
+    height: 60vh;
+    border: 1px solid #002B5B;
+}
+.navbar{
+background: rgb(62,67,46);
+    background: linear-gradient(90deg, rgba(62,67,46,1) 0%, rgba(76,86,45,1) 51%, rgba(167,209,41,1) 100%);
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Caprasimo', cursive;
+font-family: 'Lobster', cursive;
+}
+.logo{
+    height: 6vh;
+    width: 6vh;
+    border-radius: 50%;
+    border: #385b00 2px solid;
+}
+body{
+    /* background-color: #ffffff; */
+    background-image: url(img/green-backgground.jpg);
+
+}
+.arrival {
+    color: #fcfcfc;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Caprasimo', cursive;
+font-family: 'Carter One', cursive;
+font-size: 7vh;
+filter: drop-shadow(10px 9px 6px  #000000);
+background: rgb(62,67,46);
+background: linear-gradient(90deg, rgb(159, 185, 74) 0%, rgb(0, 0, 0) 51%, rgb(167, 209, 41) 100%);
+
+  
+}   

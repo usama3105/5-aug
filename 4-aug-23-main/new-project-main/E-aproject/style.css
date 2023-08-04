@@ -1,0 +1,239 @@
+.slide-img {
+    height: 90vh;
+    border: 1px solid #002B5B;
+    
+}
+
+.p {
+    display: inline-block;
+    justify-content: center;
+    margin-left: 20px;
+    height: 90vh;
+}
+
+    
+
+.img-card {
+    height: 20vh;
+}
+
+.card-body {
+    height: 10vh;
+}
+
+.rate {
+    color: #57C5B6;
+}
+
+.product-name {
+    color: #000307;
+}
+
+
+
+p {
+    color: #1A5F7A;
+}
+
+.arrival {
+    color: #fcfcfc;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Caprasimo', cursive;
+font-family: 'Carter One', cursive;
+font-size: 7vh;
+filter: drop-shadow(10px 9px 6px  #000000);
+background: #2D4356;
+background: linear-gradient(90deg, #2D4356 0%, rgb(0, 0, 0) 51%, #435B66 100%);
+
+  
+}
+
+.navbar {
+    background: #2D4356;
+background: linear-gradient(90deg, #2D4356 0%, rgb(0, 0, 0) 51%, #435B66 100%);
+    font-weight: bold;
+    font-size: large;
+    font-family: 'Caprasimo', cursive;
+font-family: 'Lobster', cursive;
+
+}
+.btn1 {
+    
+    position: relative;
+    bottom: 4vh;
+}                                             
+
+h1 {
+    color: #002B5B;
+}
+
+.card-text {
+    color: #002B5B;
+    height: 25vh;
+    /* text-align: center; */
+}
+
+.card2 {
+    height: 30vh;
+}
+
+.cardimg {
+    height: 35vh;
+}
+
+.catcard {
+    border: 1px solid #002B5B;
+}
+
+#catagory {
+    width: 100%;
+    justify-content: center;
+    position: relative;
+    left: 2vh;
+    
+}
+
+.catagory1 {
+    color: #ffffff;
+    background-color: #57C5B6;
+}
+
+.tour-text {
+    color: #002B5B;
+    
+}
+
+.tbl {
+    background-color: #002B5B;
+}
+
+.crd-bdy {
+    height: 20vh;
+}
+
+#details {
+    justify-content: center;
+}
+
+/* .body {
+    background: rgb(67, 168, 155);
+    background: linear-gradient(90deg, #1c6a8a 0%, rgb(210, 255, 249) 44%, rgb(57, 164, 185) 86%);
+} */
+
+
+.my-border {
+    border: px solid #000000;
+}
+
+.body{
+    /* background-color: #ffffff;
+    background-image: url(img/green-backgground.jpg); */
+    background: #A76F6F;
+    background: linear-gradient(90deg, #A76F6F 0%, #fdfeff 50%, #A76F6F 100%);
+}
+.logo{
+    height: 6vh;
+    width: 6vh;
+    border-radius: 50%;
+    border: #385b00 2px solid;
+}
+
+
+/* p{
+    font-family: 'Caprasimo', cursive;
+font-family: 'Lobster', cursive;
+}
+h1{
+    font-family: 'Caprasimo', cursive;
+font-family: 'Lobster', cursive;
+} */
+.travelcat{
+    font-family: 'Caprasimo', cursive;
+font-family: 'Lobster', cursive;
+}
+.hover:hover{
+    color: #000000;
+}
+.product-card{
+    filter: drop-shadow(10px 9px 6px  #000000);
+    
+}
+.home-footer{
+    background: rgb(62,67,46);
+    background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(53, 56, 44) 50%, rgb(1, 2, 0) 100%);
+    color: rgb(255, 255, 255);
+    list-style-type: none;
+    height: 70vh;
+   
+    
+}
+.home-footer h4{
+    color: #A7D129;
+    filter : drop-shadow(2px 2px 7px  rgb(151, 151, 105));
+    position: relative;
+    top: 5vh;
+    left: 10vh;
+    color: g;
+}
+.home-footer ul li{
+    list-style-type: none;
+    font-size: larger;
+    position: relative;
+    left: 10vh;
+    padding-top: 4vh;
+}
+/* .fa-phone-volume{
+    color: #0d71f3;
+    text-align: center;
+    justify-content: center ;
+    font-size: 10vh;
+    position: relative;
+    top: 20vh;
+    
+} */
+.icon{
+    padding: 6vh;
+    filter : drop-shadow(2px 2px 7px  rgb(1, 255, 213));
+    color: aqua; 
+}
+.icon:hover{
+    font-size: 4vh;
+ 
+}
+.fa-whatsapp{
+    color: #25D366;
+    filter : drop-shadow(2px 2px 7px  rgb(130, 255, 80));
+}
+.fa-instagram{
+    color: #d6249f;
+    filter : drop-shadow(2px 2px 7px  rgb(255, 118, 214));
+    
+    
+}
+.fa-square-facebook{
+    color: #1877F2 ;
+    filter : drop-shadow(2px 2px 7px  rgb(4, 175, 255));
+}
+.fa-star{
+    color: goldenrod;
+    font-size: x-large;
+}
+.slider1{
+    filter : drop-shadow(12px 22px 17px  rgb(10, 10, 10));
+
+}
+.fa-phone-volume{
+
+    color: #1877F2 ;
+    filter : drop-shadow(2px 2px 7px  rgb(4, 175, 255));
+    
+    
+}
+.footer-logo{
+    position: relative;
+    left: 100vh;
+    bottom:8vh;
+    
+}
+
